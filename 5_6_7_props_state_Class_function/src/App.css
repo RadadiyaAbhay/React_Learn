@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 1140px;
+    padding: 0 16px 0 16px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: warp;
+    margin-left:-16px;
+    margin-right:-16px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+
+header{
+    position: absolute;
+    width: 100%;
+    background-color: rgba(160, 202, 219, 0.3);
+    padding: 7px 0px;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.col-1{
+    width: 8.33%;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width:33.33%;
+}
+.col-5{
+    width:41.66%;
+}
+.col-6{
+    width:50%;
+}
+.col-7{
+    width: 58.33%;
+}
+.col-8{
+    width: 66.66%;
+}
+.col-9{
+    width: 75%;
+}
+.col-10{
+    width:83.33%;
+}
+.col-11{
+    width:91.66%;
+}
+.col-12{
+    width:100%;
+}
+
+.justify-content-start{
+    justify-content: left;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-end{
+    justify-content: right;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.d-flex{
+    display: flex;
+}
+.bann{
+    background-image: url(https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/social/reactt-light_1200x628.png?sfvrsn=43eb5f2a_2);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

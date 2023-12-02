@@ -1,0 +1,7 @@
+.new{
+    height: 100vh;
+    font-size: 80px;
+}
+.fw{
+    color:color-mix(in hsl shorter hue, rgb(21, 177, 174) 49%, rgb(71, 80, 114) 51%);
+}

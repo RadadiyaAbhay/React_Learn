@@ -1,0 +1,24 @@
+.di{
+    border-radius: 100%;
+    border: 3px solid rgb(121, 169, 194);
+    border-style: dotted ;
+    width: 55vh;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divv{
+    border-radius: 100%;
+    border: 4px solid rgb(86, 177, 100);
+    border-style: dotted ;
+    padding: 10px;
+}
+span{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+h1{
+    font-size: 7vh!important;
+}

@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+}
+
+input , button{
+    background-color: transparent;
+    border: none;
+    font-size: 17px;
+}
+input:focus{
+    outline: none;
+}
+
+.comm{
+    width: 90%;
+    height: 25px;
+    border: 2px solid silver;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    padding: 7px 5px 5px 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.row{
+    border: 2px solid black;
+    height: 93vh;
+    width: 400px;
+    overflow-Y: scroll;
+    border-radius: 10px;
+}
+
+.fir{
+    /* border-bottom: 2px solid black; */
+    box-shadow: 5px 5px 5px rgba(0, 0, 0 , 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 10px;
+    font-weight: 900;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+.sec{
+    border-bottom: 2px solid black;
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+
+}
+.thi p{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+}
+.thi span{
+    /* font-weight: 100; */
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: silver;
+    padding-left: 10px;
+}
+
+.thi{
+    display: flex; 
+    padding: 10px;
+}
+.im{
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.foru{
+    padding:10px 5px 0px 5px;
+}
+.pad{
+    padding: 0px 7px;
+}
+.five{
+    padding:0px 10px;
+}    
+svg{
+    cursor:pointer;
+}
+.six{
+    padding: 10px;
+}
+::-webkit-scrollbar{
+    background-color: transparent;
+    width: 3px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: black;
+    border-radius: 50%;
+}
+.coo{
+    padding: 10px 2px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.output{
+    margin-left: -10px;
+}
+
+.thi h5{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+}
+.thi h6{
+    font-weight: 100;
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(162, 162, 162);
+    padding-left: 10px;
+}
+
+.im1{
+    width: 30px;
+    height: 30px;
+    background-image: url(https://blog.logrocket.com/wp-content/uploads/2020/07/react-native-geolocation.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.ki{
+    width: 354px;
+}
+
+.shadow{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0 , 0.3);
+}

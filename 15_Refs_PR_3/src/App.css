@@ -1,0 +1,158 @@
+.container{
+  width: 1140px;
+  padding: 0px 16px;
+  margin: 0 auto;
+}
+.row{
+  margin: 0 -16px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.justify-content-center{
+  justify-content: center;
+}
+.justify-content-between{
+  justify-content: space-between;
+}
+.justify-content-right{
+  justify-content: right;
+}
+.align-items-center{
+  align-items:center ;
+}
+.align-items-start{
+  align-items: start;
+}
+.align-items-end{
+  align-items: end;
+}
+.flex-dire-colu{
+  flex-direction: column;
+}
+.d-flex{
+  display: flex !important;
+  flex-wrap:wrap;
+}
+.d-none{
+  display: none;
+}
+.col-1{
+  width: 8.33%;
+}
+.col-2{
+  width: 16.66%;
+}
+.col-3{
+  width: 25%;
+}
+.col-4{
+  width: 33.33%;
+}
+.col-5{
+  width: 41.66%;
+}
+
+.col-6{
+  width: 50%;
+}
+.col-7{
+  width: 58.33%;
+}
+.col-8{
+  width: 66.66%;
+}
+.col-9{
+  width:75%;
+}
+.col-10{
+  width:83.33%;
+}
+.col-11{
+  width: 91.66%;
+}
+.col-12{
+  width: 100%;
+}
+
+.bor{
+  border: 2px solid black;
+  height: 370px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h4{
+  font-size: 23px;
+  font-weight: 900!important;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
+}
+h5{
+  font-size: 19px;
+  padding-top: 5px;
+  color:blueviolet;
+}
+p{
+  padding-top: 5px;
+}
+.pad{
+  padding: 10px;
+}
+
+.mb-auto{
+  margin-bottom: auto;
+}
+
+button{
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+.borde{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+h6{
+  font-size: 19px;
+  padding: 10px;
+}
+
+.d-inline{
+  display: inline;
+}
+
+.buu{
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 3px solid black;
+  background-color: rgba(165, 42, 42 , 0.5);
+  padding: 10px 20px;
+  color: black;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.incButt{
+  border-radius: 0px 8px 8px 0px;
+  border: 2px solid black;
+  font-weight: 700;
+  font-size: 19px;
+  background-color: beige;
+  padding: 7px 10px;
+}
+.decButt{
+  border-radius: 8px 0px 0px 8px;
+  border: 2px solid black;
+  font-weight: 700;
+  background-color: beige;
+  font-size: 19px;
+  padding: 7px 12px;
+
+}
+
+.spp{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}

@@ -1,0 +1,103 @@
+body{
+    background-color: #0F172A;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.back{
+    background-image: url(https://techwind-next.vercel.app/images/cafe/bg1.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    overflow-y: hidden;
+}
+.back::after{
+    background: rgb(15,23,42);
+    background: linear-gradient(180deg, rgba(15,23,42,0.9585084033613446) 0%, rgba(255,255,255,0) 100%);
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+header{
+    z-index: 1;
+}
+.backfont{
+    transform: rotate(-15deg);
+    z-index: 10;
+}
+.welpadd{
+    padding: 95px 0px 30px 0px;
+}
+
+::-webkit-scrollbar{
+    background-color: transparent;
+    width: 3px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: white;
+    /* border-radius: 50%; */
+}
+.cir{
+    width: 4vw;
+    height: 4vw;
+}
+.fam {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.greeback{
+    background-image: url(https://techwind-next.vercel.app/images/cafe/cta.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.bodyColor{
+    background-color: #0F172A;
+}
+.bannfont{
+    font-size: 8rem;
+}
+.overhidd{
+    overflow: hidden!important;
+}
+.pos-abs{
+    position: absolute;
+    background-color: transparent;
+    z-index: 1;
+    border-bottom: none;
+    width: 100%;
+}
+.pos-fix{
+    position: fixed;
+    background-color: rgba(15, 23, 42,0.8);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    z-index: 11!important;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+@media(max-width : 768px){
+    .bannfont{
+        font-size: 4em;
+    }
+
+    .cir{
+        width: 8vw;
+        height: 8vw;
+    }
+}
+@media(min-width:769px) and (max-width : 992px){
+    .cir{
+        width:6vw;
+        height: 6vw;
+    }
+
+}

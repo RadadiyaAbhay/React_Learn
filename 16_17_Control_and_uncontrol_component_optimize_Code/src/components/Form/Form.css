@@ -1,0 +1,14 @@
+label{
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    padding-bottom: 5px;
+}
+
+input{
+    border-radius: 10px;
+    margin-bottom: 20px ;
+}
+button{
+    border-radius: 5px;
+}

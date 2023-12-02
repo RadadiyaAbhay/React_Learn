@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-wrap: warp;
+    margin-left:-16px;
+    margin-right:-16px;
+}
+.container{
+    width: 1140px;
+    padding: 0 16px 0 16px;
+    margin: 0 auto;
+}
