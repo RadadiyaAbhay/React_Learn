@@ -1,0 +1,32 @@
+.show{
+    display: block!important;
+}
+.hide{
+    display: none!important;
+}
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #FFC516;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+  }
+  
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .font2{
+    font-family: 'Poppins', sans-serif;
+  }
+  .font1{
+    font-family: 'Roboto Slab', serif;
+  }
