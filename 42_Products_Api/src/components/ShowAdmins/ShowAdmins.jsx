@@ -17,9 +17,7 @@ function ShowAdmins() {
   const { admins , isLoading ,err} = useSelector(state => state.adminsReducer);
   const handleEdit = (id) =>{
     dispatch(editAdmins(id))
-    setTimeout(() => {
       navigate("/editadmin")
-    }, 100);
   }
 
 

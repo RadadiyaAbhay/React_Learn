@@ -22,6 +22,9 @@ function EditAdmin() {
     navigate("/showadmins")
   }
 
+  useEffect(()=>{
+    setAdminInput(admin)
+  },[admin])
   if(isLoading){
     return(
       <>

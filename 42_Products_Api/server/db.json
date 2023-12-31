@@ -1,93 +1,9 @@
 {
   "products": [
     {
-      "id": 2,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptopsed",
-      "price": "10291.9523",
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 3,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": "1029.95",
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 4,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 5,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 6,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 7,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 8,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
       "id": 9,
       "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
+      "price": "1045437.95",
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
@@ -11989,7 +11905,7 @@
       }
     },
     {
-      "title": "we",
+      "title": "wedsfs",
       "description": "wewe",
       "price": "2",
       "image": "32",
@@ -11999,6 +11915,42 @@
         "count": "20"
       },
       "id": 1001
+    },
+    {
+      "title": "sasaaASA",
+      "description": "s",
+      "price": "23",
+      "image": "32d",
+      "category": "fdc",
+      "rating": {
+        "rate": "2as",
+        "count": "3"
+      },
+      "id": 1002
+    },
+    {
+      "title": "ed",
+      "description": "ew",
+      "price": "28",
+      "image": "https://m.media-amazon.com/images/I/61tqy6oRFtL._SX679_.jpg",
+      "category": "e",
+      "rating": {
+        "rate": "3",
+        "count": "32"
+      },
+      "id": 1003
+    },
+    {
+      "title": "ew",
+      "description": "wde",
+      "price": "32",
+      "image": "32d",
+      "category": "32",
+      "rating": {
+        "rate": "eqw",
+        "count": "32"
+      },
+      "id": 1004
     }
   ],
   "admins": [
@@ -12015,15 +11967,15 @@
       "email": "abhay592004@gmail.com",
       "password": "admin",
       "skey": "3edsa",
-      "username": "admin",
+      "username": "adminnknlk",
       "id": 2
     },
     {
       "name": "Radadiya Abhay ",
       "email": "abhay592004@gmail.com",
-      "password": "admin",
+      "password": "adminnkjnjk",
       "skey": "3edsa",
-      "username": "admin",
+      "username": "adminnjk",
       "id": 4
     },
     {
@@ -12087,7 +12039,7 @@
       "email": "abhay592004@gmail.com",
       "password": "admin",
       "skey": "3edsa",
-      "username": "admin",
+      "username": "adminwed",
       "id": 12
     },
     {
@@ -20001,11 +19953,35 @@
       "skey": "ewd",
       "username": "radad",
       "id": 1002
+    },
+    {
+      "name": "Radadiya Abhay B",
+      "email": "abhay592004@gmail.com",
+      "password": "z",
+      "skey": " nmm",
+      "username": "example_user",
+      "id": 1003
+    },
+    {
+      "name": "Radadiya Abhay B",
+      "email": "abhay592004@gmail.com",
+      "password": "kmklnkjlnljjjkljk",
+      "skey": "jjiji",
+      "username": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "id": 1004
+    },
+    {
+      "name": "sxdcs",
+      "email": "sv",
+      "password": "FD",
+      "skey": "RE",
+      "username": "F",
+      "id": 1005
     }
   ],
   "users": [
     {
-      "name": "32er",
+      "name": "zazsbjbjbj",
       "email": "32",
       "password": "32",
       "mnumber": "32ews",

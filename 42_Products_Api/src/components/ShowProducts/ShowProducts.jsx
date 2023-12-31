@@ -9,17 +9,15 @@ import { useNavigate } from 'react-router';
 function ShowProducts() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-
   useEffect(() => {
+    console.log("useEffect");
     dispatch(showProducts());
   },[])
 
   const { products , isLoading ,err} = useSelector(state => state.productsReducer);
   const handleEdit = (id) =>{
     dispatch(editProducts(id))
-    setTimeout(() => {
       navigate("/editproduct")
-    }, 100);
   }
 
 
@@ -40,6 +38,7 @@ function ShowProducts() {
       </>
     )
   }else if(err != null){
+
     return(
       <>
       <Container>

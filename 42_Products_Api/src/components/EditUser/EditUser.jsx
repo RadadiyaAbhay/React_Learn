@@ -21,6 +21,9 @@ function EditUser() {
     dispatch(doneEditUsers(id , userInput));
     navigate("/showusers")
   }
+  useEffect(()=>{
+    setUserInput(user)
+  },[user])
 
   if(isLoading){
     return(

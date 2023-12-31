@@ -17,9 +17,7 @@ function ShowUsers() {
   const { users , isLoading ,err} = useSelector(state => state.usersReducer);
   const handleEdit = (id) =>{
     dispatch(editUsers(id))
-    setTimeout(() => {
       navigate("/edituser")
-    }, 100);
   }
 
 

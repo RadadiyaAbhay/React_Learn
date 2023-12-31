@@ -26,6 +26,10 @@ function EditProduct() {
     navigate("/showproducts")
   }
 
+  useEffect(()=>{
+    setProductInput(product)
+  },[product])
+
   if(isLoading){
     return(
       <>
