@@ -1,0 +1,6 @@
+link Admin : https://ecommerce-573b6.web.app/ , https://ecommerce-573b6.firebaseapp.com/
+link website :
+
+admin id Pass : abhay@gmail.com , abhay@
+
+firebase deploy --only hosting:adminclothes

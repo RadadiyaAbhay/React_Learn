@@ -1,0 +1,14 @@
+export const ADDUSERREQ = "ADDUSERREQ";
+export const ADDUSERREJ = "ADDUSERREJ";
+export const GOOGLESIGNINREQ = "GOOGLESIGNINREQ";
+export const GOOGLESIGNINRES = "GOOGLESIGNINRES";
+export const GOOGLESIGNINREJ = "GOOGLESIGNINREJ";
+export const SIGNINREQ = "SIGNINREQ";
+export const SIGNINREJ = "SIGNINREJ";
+export const SIGNINRES = "SIGNINRES";
+export const SIGNUPREQ = "SIGNUPREQ";
+export const SIGNUPREJ = "SIGNUPREJ";
+export const SIGNUPRES = "SIGNUPRES";
+export const SIGNOUTREQ = "SIGNOUTREQ";
+export const SIGNOUTREJ = "SIGNOUTREJ";
+export const SIGNOUTRES = "SIGNOUTRES";

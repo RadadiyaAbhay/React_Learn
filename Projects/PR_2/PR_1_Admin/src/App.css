@@ -1,0 +1,78 @@
+.scroll-line::-webkit-scrollbar {
+    width: 7px;
+  }
+
+  .scroll-line::-webkit-scrollbar-track {
+    background-color: dark;
+  }
+
+  .scroll-line::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.5);
+    border-radius: 100px;
+  }
+
+.rot1{
+  animation-name: example1;
+  animation-duration: 0.5s;
+  transform: rotate(0deg);
+}
+
+@keyframes example1 {
+  from {transform: rotate(90deg);}
+  to {transform: rotate(0deg);}
+}
+
+.rot2{
+  animation-name: example2;
+  animation-duration: 0.5s;
+  transform: rotate(90deg);
+}
+
+@keyframes example2 {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(90deg);}
+}
+.point{
+  cursor: pointer;
+}
+.fs-7{
+  font-size: 14px!important;
+}
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #4F46E5;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+header{
+  z-index: 999!important;
+}
+.zin{
+  z-index: 9999!important;
+}
+.hei{
+  height: 105px!important;
+}
+@media (max-width:1200px) {
+  .img-width{
+    max-width: 100px!important;
+    width: 100px!important;
+    height: 100px!important;
+    object-fit: contain;
+  }
+}

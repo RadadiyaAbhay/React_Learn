@@ -11951,15 +11951,27 @@
         "count": "32"
       },
       "id": 1004
+    },
+    {
+      "title": "qdqwwwwwwwwwwwwwwwwwwwwwwww",
+      "description": "qwd",
+      "price": "21",
+      "image": "2wq",
+      "category": "qwe",
+      "rating": {
+        "rate": "qwe2",
+        "count": "2"
+      },
+      "id": 1005
     }
   ],
   "admins": [
     {
-      "name": "Radadiya Abhay er",
+      "name": "Radadiya Abhay erwqdwqd",
       "email": "abhay592004@gmail.com",
-      "password": "admin",
+      "password": "adminqwdwqedq",
       "skey": "3edsabbvfyui",
-      "username": "admin",
+      "username": "adminqdwqwdqwd",
       "id": 1
     },
     {
@@ -19977,6 +19989,14 @@
       "skey": "RE",
       "username": "F",
       "id": 1005
+    },
+    {
+      "name": "Radadiya Abhay B",
+      "email": "abhay592004@gmail.com",
+      "password": "qwd",
+      "skey": "qwdewqe",
+      "username": "abhay@gmail.com",
+      "id": 1006
     }
   ],
   "users": [
@@ -27987,6 +28007,14 @@
       "mnumber": "+916358897855",
       "username": "klnm",
       "id": 1002
+    },
+    {
+      "name": "wswq",
+      "email": "ewd",
+      "password": "dqwq",
+      "mnumber": "qwd",
+      "username": "qwd",
+      "id": 1003
     }
   ]
 }

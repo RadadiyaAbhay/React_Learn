@@ -1,10 +1,10 @@
 import React from 'react'
-import Header from './assets/components/Header/Header'
+import Header from './components/Header/Header'
 import { Route, Routes } from 'react-router'
-import Create from './assets/components/Create/Create'
-import Read from './assets/components/Read/Read'
-import Update from './assets/components/Update/Update'
-import View from './assets/components/View/View'
+import Create from './components/Create/Create'
+import Read from './components/Read/Read'
+import Update from './components/Update/Update'
+import View from './components/View/View'
 import './App.css'
 
 function App() {
